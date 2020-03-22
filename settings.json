@@ -1,0 +1,8 @@
+{
+  "spark_dir": "/Users/jamie/spark-2.3.1-bin-hadoop2.7/bin/",
+  "target_path": "/Users/jamie/PycharmProjects/mengchieh_lee_competition",
+  "data_path": "/Users/jamie/PycharmProjects/mengchieh_lee_competition/data/",
+  "result_path": "/Users/jamie/PycharmProjects/mengchieh_lee_competition/result/",
+  "result_log_path": "/Users/jamie/PycharmProjects/mengchieh_lee_competition/result_log/",
+  "ground_truth_path": "/Users/jamie/PycharmProjects/mengchieh_lee_competition/data/yelp_val.csv"
+}
